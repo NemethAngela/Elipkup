@@ -3,13 +3,13 @@
 * Author: Németh Angéla
 * Copyright: 2023, Németh Angéla
 * Group: Szoft 1-2 E
-* Date: 2023-02-04
+* Date: 2023-02-07
 * Github: * Github: https://github.com/NemethAngela/Elipkup
 * Licenc: GNU GPL
 */
 
 .container {
-    background-color: blanchedalmond;
+    background-color: rgb(246, 191, 108);
     border-radius: 5px;
     padding: 25px;
 }
